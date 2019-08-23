@@ -70,4 +70,6 @@ In this homework assignment, you will be tasked with completing the functionalit
 
 ## Gif of Completed Application
 
+* bonus requirements are not depicted in this gif
+
 ![deliverable](https://github.com/jsd20190730/hw-03-rock-paper-scissors/blob/master/images/rps-demo.gif)
